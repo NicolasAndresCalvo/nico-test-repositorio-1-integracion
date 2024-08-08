@@ -1,6 +1,6 @@
-name: 'My GitHub Action'
+name: 'Actions to pass GitHub Actions Certification'
 description: 'An example GitHub Action that echoes a message'
-author: 'Your Name <your.email@example.com>'
+author: 'Nicolas Andres Calvo nico.calvo2014@gmail.com'
 inputs:
   message:
     description: 'The message to echo'
