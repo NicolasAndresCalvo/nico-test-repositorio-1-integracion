@@ -14,4 +14,4 @@ runs:
   main: 'index.js'
 branding:
   color: 'blue'
-  icon: 'megaphone'
+  icon: 'activity'
